@@ -1,12 +1,11 @@
-﻿using SouthWine.Business.Intefaces;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using SouthWine.Api.Controllers;
 using SouthWine.Api.DTOs;
 using SouthWine.Api.Extensions;
+using SouthWine.Business.Interfaces;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;

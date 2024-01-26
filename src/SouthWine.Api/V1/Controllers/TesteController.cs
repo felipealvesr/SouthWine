@@ -1,7 +1,6 @@
-﻿using SouthWine.Business.Intefaces;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SouthWine.Api.Controllers;
+using SouthWine.Business.Interfaces;
 
 namespace SouthWine.Api.V1.Controllers
 {

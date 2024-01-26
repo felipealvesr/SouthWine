@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using SouthWine.Api.DTOs;
-using SouthWine.Business.Intefaces;
 using SouthWine.Business.Notificacoes;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
+using SouthWine.Business.Interfaces;
 
 namespace SouthWine.Api.Controllers
 { 

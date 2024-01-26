@@ -1,11 +1,11 @@
-﻿using SouthWine.Business.Intefaces;
-using SouthWine.Business.Notificacoes;
+﻿using SouthWine.Business.Notificacoes;
 using SouthWine.Business.Services;
 using SouthWine.Data.Context;
 using SouthWine.Data.Repository;
 using Microsoft.Extensions.Options;
 using SouthWine.Api.Extensions;
 using Swashbuckle.AspNetCore.SwaggerGen;
+using SouthWine.Business.Interfaces;
 
 namespace SouthWine.Api.Configuration
 {

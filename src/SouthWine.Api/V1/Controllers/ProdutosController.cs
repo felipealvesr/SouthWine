@@ -1,12 +1,11 @@
 ﻿using AutoMapper;
-using SouthWine.Business.Intefaces;
-using SouthWine.Business.Models;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SouthWine.Api.Controllers;
 using SouthWine.Api.DTOs;
 using SouthWine.Api.Extensions;
+using SouthWine.Business.Interfaces;
+using SouthWine.Business.Models;
 
 namespace SouthWine.Api.V1.Controllers
 {

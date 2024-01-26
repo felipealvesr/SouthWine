@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SouthWine.Api", "src\SouthWine.Api\SouthWine.Api.csproj", "{21B2B108-0C21-4DFF-802A-EF366CCC663D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SouthWine.Business", "src\SouthWine.Business\SouthWine.Business.csproj", "{2DFF98EF-C7E4-4A69-8B37-1AA9D77DBD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SouthWine.Data", "src\SouthWine.Data\SouthWine.Data.csproj", "{FFA38AA2-C7FB-43BD-A128-C689318ACED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{21B2B108-0C21-4DFF-802A-EF366CCC663D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21B2B108-0C21-4DFF-802A-EF366CCC663D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21B2B108-0C21-4DFF-802A-EF366CCC663D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFF98EF-C7E4-4A69-8B37-1AA9D77DBD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFF98EF-C7E4-4A69-8B37-1AA9D77DBD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFF98EF-C7E4-4A69-8B37-1AA9D77DBD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFF98EF-C7E4-4A69-8B37-1AA9D77DBD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA38AA2-C7FB-43BD-A128-C689318ACED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA38AA2-C7FB-43BD-A128-C689318ACED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA38AA2-C7FB-43BD-A128-C689318ACED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA38AA2-C7FB-43BD-A128-C689318ACED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

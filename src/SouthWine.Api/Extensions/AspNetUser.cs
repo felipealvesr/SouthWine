@@ -1,4 +1,4 @@
-﻿using SouthWine.Business.Intefaces;
+﻿using SouthWine.Business.Interfaces;
 using System.Security.Claims;
 
 
